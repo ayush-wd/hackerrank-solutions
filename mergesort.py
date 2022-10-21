@@ -24,12 +24,6 @@ def mergesort(a):
             k+=1
 
 
-a=[5,7,1,2,3,9]
-print(a)
-mergesort(a)
-print(a)
-
-
 
 
 
