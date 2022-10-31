@@ -18,19 +18,6 @@ def quicksort(a,low,high):
         quicksort(a,pi+1,high)
 
 
-a=[]
-for q in range(10):
-    t=random.randint(1,10)
-    a.append(t)
-print(a)
-low=0
-high=len(a)-1
-start=time.time()
-quicksort(a,low,high)
-end=time.time()
-print(a)
-print(end-start)
-
 
 
 
