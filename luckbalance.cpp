@@ -1,3 +1,4 @@
+//this is the solution for luck balance
 int luckBalance(int k, vector<vector<int>> c) {
     vector<int> v;
     int count = 0;
